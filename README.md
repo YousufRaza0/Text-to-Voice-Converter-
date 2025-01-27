@@ -1,2 +1,14 @@
-# Text-to-Voice-Converter-
-The Text to Voice Converter app transforms typed text into spoken words. With a simple input field and a play button, it allows users to listen to their text in a natural-sounding voice, making it useful for accessibility or multitasking.
+# Text-to-Voice-Converter-🎙️
+Description:
+
+The Text to Voice Converter transforms written text into audio output using HTML, CSS, and JavaScript. It’s ideal for accessibility and multitasking.
+Features:
+
+    Converts text to speech with a single click.
+    Simple and intuitive interface.
+
+How to Use:
+
+    Open the app in your browser.
+    Enter text into the input field.
+    Click the "Convert" or "Play" button to hear the text spoken aloud.
